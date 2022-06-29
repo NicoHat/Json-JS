@@ -1,0 +1,110 @@
+[
+    {
+        "id": 17,
+        "titulo": "Al hueso!",
+        "autor": "Christian Petersen",
+        "genero": "Gastronomia",
+        "precio": 1400,
+        "stock": 55,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 18,
+        "titulo": "Argentina bizarra",
+        "autor": "Matias Bauso",
+        "genero": "Historia contemporanea",
+        "precio": 1200,
+        "stock": 100,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 19,
+        "titulo": "El coraje de ser quien eres (aunque no gustes)",
+        "autor": "Walter Riso",
+        "genero": "Psicologia/Autoayuda",
+        "precio": 1600,
+        "stock": 5,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 20,
+        "titulo": "Borges",
+        "autor": "Julio Premat",
+        "genero": "Filosofia",
+        "precio": 1500,
+        "stock": 30,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 21,
+        "titulo": "Buenos Aires tiene barrio",
+        "autor": "Leonel Contreras | Victor Coviello",
+        "genero": "Ciencuas humanas y sociales | Actualidad",
+        "precio": 1300,
+        "stock": 100,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 22,
+        "titulo": "La DEA en la Argentina",
+        "autor": "Julian Maradeo",
+        "genero": "Ciencias politicas",
+        "precio": 1000,
+        "stock": 30,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 23,
+        "titulo": "Caballo de fuego 1. Paris",
+        "autor": "Florencia Bonelli",
+        "genero": "Novela romantica",
+        "precio": 1100,
+        "stock": 32,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 24,
+        "titulo": "El cuerpo es quien recuerda",
+        "autor": "Paula Puebla",
+        "genero": "Novela literaria",
+        "precio": 1200,
+        "stock": 20,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 25,
+        "titulo": "Efectos personales",
+        "autor": "Marina Mariasch",
+        "genero": "Novela literaria",
+        "precio": 1500,
+        "stock": 30,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 26,
+        "titulo": "Las malas",
+        "autor": "Camila Sosa Villada",
+        "genero": "Novela contemporanea",
+        "precio": 1300,
+        "stock": 100,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 27,
+        "titulo": "Una corte de hielo y estrellas",
+        "autor": "Sarah J. Maas",
+        "genero": "Fantasia",
+        "precio": 1000,
+        "stock": 30,
+        "imagen": ".jpg"
+    },
+    {
+        "id": 28,
+        "titulo": "Lo que dicen tus ojos",
+        "autor": "Florencia Bonelli",
+        "genero": "Novela literaria | Relatos",
+        "precio": 1100,
+        "stock": 32,
+        "imagen": ".jpg"
+    }
+]
