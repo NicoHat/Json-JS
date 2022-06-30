@@ -6,7 +6,7 @@
         "genero": "Gastronomia",
         "precio": 1400,
         "stock": 55,
-        "imagen": "al hueso.jpg"
+        "imagen": "../img/al hueso.jpg"
     },
     {
         "id": 18,
