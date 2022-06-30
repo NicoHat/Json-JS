@@ -6,7 +6,7 @@
         "genero": "Gastronomia",
         "precio": 1400,
         "stock": 55,
-        "imagen": ".jpg"
+        "imagen": "al hueso.jpg"
     },
     {
         "id": 18,
@@ -15,7 +15,7 @@
         "genero": "Historia contemporanea",
         "precio": 1200,
         "stock": 100,
-        "imagen": ".jpg"
+        "imagen": "argentina bizarra.jpg"
     },
     {
         "id": 19,
@@ -24,7 +24,7 @@
         "genero": "Psicologia/Autoayuda",
         "precio": 1600,
         "stock": 5,
-        "imagen": ".jpg"
+        "imagen": "el coraje de ser quien eres.jpg"
     },
     {
         "id": 20,
@@ -33,7 +33,7 @@
         "genero": "Filosofia",
         "precio": 1500,
         "stock": 30,
-        "imagen": ".jpg"
+        "imagen": "borges.jpg"
     },
     {
         "id": 21,
@@ -42,7 +42,7 @@
         "genero": "Ciencuas humanas y sociales | Actualidad",
         "precio": 1300,
         "stock": 100,
-        "imagen": ".jpg"
+        "imagen": "buenos aires tiene barrio.jpg"
     },
     {
         "id": 22,
@@ -51,7 +51,7 @@
         "genero": "Ciencias politicas",
         "precio": 1000,
         "stock": 30,
-        "imagen": ".jpg"
+        "imagen": "la dea en la argentina.jpg"
     },
     {
         "id": 23,
@@ -60,7 +60,7 @@
         "genero": "Novela romantica",
         "precio": 1100,
         "stock": 32,
-        "imagen": ".jpg"
+        "imagen": "caballo de fuego 1.jpg"
     },
     {
         "id": 24,
@@ -69,7 +69,7 @@
         "genero": "Novela literaria",
         "precio": 1200,
         "stock": 20,
-        "imagen": ".jpg"
+        "imagen": "el cuerpo es quien recuerda.jpg"
     },
     {
         "id": 25,
@@ -78,7 +78,7 @@
         "genero": "Novela literaria",
         "precio": 1500,
         "stock": 30,
-        "imagen": ".jpg"
+        "imagen": "efectos personales.jpg"
     },
     {
         "id": 26,
@@ -87,7 +87,7 @@
         "genero": "Novela contemporanea",
         "precio": 1300,
         "stock": 100,
-        "imagen": ".jpg"
+        "imagen": "las malas.jpg"
     },
     {
         "id": 27,
@@ -96,7 +96,7 @@
         "genero": "Fantasia",
         "precio": 1000,
         "stock": 30,
-        "imagen": ".jpg"
+        "imagen": "una corte de hielo y estrellas.jpg"
     },
     {
         "id": 28,
@@ -105,6 +105,6 @@
         "genero": "Novela literaria | Relatos",
         "precio": 1100,
         "stock": 32,
-        "imagen": ".jpg"
+        "imagen": "lo que dicen tus ojos.jpg"
     }
 ]
